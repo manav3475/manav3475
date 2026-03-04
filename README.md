@@ -25,8 +25,3 @@
 - Email: manavshah712@gmail.com
 - Mobile: +91 9429152370
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://linkedin.com/in/manav-shah12365
-- 📧 Email: manavshah712@gmail.com
-- 📱 Mobile: +91 9429152370
