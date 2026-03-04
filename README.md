@@ -10,7 +10,7 @@
 
 ## 🛠 Tech Stack
 - **Languages:** Python, SQL
-- **AI/ML:** Scikit-learn, NLP, Computer Vision, LLM, RAG
+- **AI/ML:** NLP, Computer Vision, LLM, RAG
 - **Frameworks:** LangChain, FastAPI
 - **Cloud:** Azure
 - **Tools:** Docker, GitHub Actions, Selenium
