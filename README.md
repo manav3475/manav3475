@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Manav Shah
 
-<!--
-**manav3475/manav3475** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 ML Engineer with 4+ years of experience building scalable AI/ML and LLM-powered systems.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔭 Currently working on **LLM & RAG based AI systems**
+- 🧠 Interested in **Machine Learning, GenAI, NLP, and AI Agents**
+- ⚙️ Experienced with **Python, LangChain, FastAPI, Docker, Azure**
+- 📊 Building automation systems to replace manual workflows
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- **Languages:** Python, SQL
+- **AI/ML:** Scikit-learn, NLP, Computer Vision, LLM, RAG
+- **Frameworks:** LangChain, FastAPI
+- **Cloud:** Azure
+- **Tools:** Docker, GitHub Actions, Selenium
+
+## 📂 Featured Projects
+- 🤖 **Ask Guru** – RAG based career question answering system  
+- 🧠 **Ask Chanakya** – GenAI virtual assistant  
+- 📊 **Pollution Prediction Model** – ML based pollution forecasting  
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/manav-shah12365
+- Email: manavshah712@gmail.com
