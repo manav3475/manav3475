@@ -19,9 +19,9 @@
 - 🤖 **Ask Guru** – RAG based career question answering system  
 - 🧠 **Ask Chanakya** – GenAI virtual assistant  
 - 📊 **Pollution Prediction Model** – ML based pollution forecasting  
+- 🐍 **[Agno Basics](https://github.com/manav3475/agno-basics)** – Python project (100% Python)
 
 ## 📫 Connect With Me
 - LinkedIn: https://linkedin.com/in/manav-shah12365
 - Email: manavshah712@gmail.com
 - Mobile: +91 9429152370
-
